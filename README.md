@@ -22,8 +22,6 @@ Important: this application uses various AWS services and there are costs associ
 
 ## Deploy this demo
 
-We will be using AWS SAM and make sure you are running the latest version - at the time of writing, this was 1.37.0 (sam --version).
-
 Deploy the project to the cloud:
 
 ```
